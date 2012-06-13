@@ -1,0 +1,36 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/Users/ryan/.nvm/v0.6.6/bin/npm', 'start' ]
+2 info using npm@1.1.25
+3 info using node@v0.6.6
+4 verbose config file /Users/ryan/.npmrc
+5 verbose config file /Users/ryan/.nvm/v0.6.6/etc/npmrc
+6 verbose config file /Users/ryan/.nvm/v0.6.6/lib/node_modules/npm/npmrc
+7 verbose read json /Users/ryan/Projects/seattlejs/package.json
+8 verbose caching json /Users/ryan/Projects/seattlejs/package.json
+9 verbose loadDefaults SeattleJS@0.0.1
+10 verbose run-script [ 'prestart', 'start', 'poststart' ]
+11 info prestart SeattleJS@0.0.1
+12 info start SeattleJS@0.0.1
+13 verbose unsafe-perm in lifecycle true
+14 silly exec sh "-c" "node index.js"
+15 silly sh,-c,node index.js,/Users/ryan/Projects/seattlejs spawning
+16 info SeattleJS@0.0.1 Failed to exec start script
+17 error SeattleJS@0.0.1 start: `node index.js`
+17 error `sh "-c" "node index.js"` failed with 1
+18 error Failed at the SeattleJS@0.0.1 start script.
+18 error This is most likely a problem with the SeattleJS package,
+18 error not with npm itself.
+18 error Tell the author that this fails on your system:
+18 error     node index.js
+18 error You can get their info via:
+18 error     npm owner ls SeattleJS
+18 error There is likely additional logging output above.
+19 error System Darwin 11.3.0
+20 error command "node" "/Users/ryan/.nvm/v0.6.6/bin/npm" "start"
+21 error cwd /Users/ryan/Projects/seattlejs
+22 error node -v v0.6.6
+23 error npm -v 1.1.25
+24 error code ELIFECYCLE
+25 error message SeattleJS@0.0.1 start: `node index.js`
+25 error message `sh "-c" "node index.js"` failed with 1
+26 verbose exit [ 1, true ]
