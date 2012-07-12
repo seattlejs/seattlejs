@@ -42,8 +42,9 @@
       var member,
         _this = this;
       member = $(event.target).model();
-      if (confirm("Sign in as " + member.attributes.name + "?")) {
-        this.thankYouName = member.attributes.name;
+      console.log(member);
+      if (confirm("Sign in as " + member.attributes.member.name + "?")) {
+        this.thankYouName = member.attributes.member.name;
         this.render();
         setTimeout(function() {
           _this.thankYouName = false;
@@ -52,8 +53,8 @@
           _this.render();
           return _this.$('input[type="text"]').focus();
         }, 3000);
-        $.post('/signin?memberId=' + member.attributes.id, {});
-        return generateUniqueTweet(member.attributes.name);
+        $.post('/signin?memberId=' + member.attributes.member.member_id, {});
+        return generateUniqueTweet(member.attributes.member.name);
       }
     },
     template: "{{#if thankYouName}}\n  <div class=\"alert alert-success\">Welcome {{thankYouName}}!</div>\n{{else}}\n  <h2>Welcome to SeattleJS <small>Please sign in</small></h2>\n  <form>\n    <input class=\"input input-large\" placeholder=\"Enter your name\" type=\"text\" autocomplete=\"off\" autocorrect=\"off\">\n  </form>\n  <table class=\"table table-striped table-bordered\">\n    {{#collection filtered tag=\"tbody\"}}\n      <tr>\n        <td><img src=\"{{member_photo.thumb_link}}\"></td>\n        <td><h3>{{member.name}}</h3></td>\n        <td>{{#button \"signin\" class=\"btn btn-primary btn\"}}Sign In{{/button}}</td>\n      </tr>\n    {{else}}\n      <tr><td>{{#if emptyInput}} {{else}}No matches{{/if}}</td></tr>\n    {{/collection}}\n  </table>\n{{/if}}"

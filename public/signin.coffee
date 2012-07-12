@@ -23,8 +23,9 @@ SigninView = Application.View.extend
         window.scrollTo 0, (target.offset().top - 5)
   signin: (event) ->
     member = $(event.target).model()
-    if confirm "Sign in as #{member.attributes.name}?"
-      @thankYouName = member.attributes.name
+    console.log member
+    if confirm "Sign in as #{member.attributes.member.name}?"
+      @thankYouName = member.attributes.member.name
       @render()
       setTimeout =>
         @thankYouName = false
@@ -33,8 +34,8 @@ SigninView = Application.View.extend
         @render()
         @$('input[type="text"]').focus()
       , 3000
-      $.post '/signin?memberId=' + member.attributes.id, {}
-      generateUniqueTweet member.attributes.name
+      $.post '/signin?memberId=' + member.attributes.member.member_id, {}
+      generateUniqueTweet member.attributes.member.name
 
   template: """
     {{#if thankYouName}}
