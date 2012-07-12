@@ -1,0 +1,39 @@
+body {
+  padding: 10px;
+}
+
+input[type="text"] {
+  margin-bottom:-10px;
+}
+
+table {
+  table-layout: fixed;
+}
+
+table td {
+  white-space: nowrap;
+
+}
+
+table td h3 {
+  font-size: 1em;
+}
+
+table td:last-child {
+  text-align:right;
+  width: 95px;
+}
+
+table td:last-child button {
+
+}
+
+table td:first-child {
+  text-align:left;
+  width: 65px;
+}
+
+table td:first-child img {
+  width: 40px;
+  height: 40px;
+}

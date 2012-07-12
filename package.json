@@ -1,10 +1,15 @@
 {
-  "name": "SeattleJS",
+  "name": "seattlebackbone",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.9"
+    "express": "2.5.x",
+    "ntwitter": "0.4.0",
+    "socket.io": "0.9.x"
   },
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": "0.6.x"
   }
 }
