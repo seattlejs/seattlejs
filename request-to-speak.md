@@ -1,34 +1,48 @@
-# The title of the talk
+# Speaking at SeattleJS
+
+We believe that anyone who writes code for a living is capable of giving an awesome talk at SeattleJS. Our community is ultimately about pulling together a passionate group of web developers, facilitating learning and building relationships. Sometimes the best talks are from well-known speakers who manage popular open source projects. Sometimes they are from developers who have solved a gnarly problem and want to share their solution. 
+
+There are many kinds of great talks, but they all focus on **WHY** a developer should adopt a technology or process rather than simply WHAT it is.
+
+Below are some simple steps for submitting a request to speak at SeattleJS and a template you can use so that you include all the relevant information.
+
+## Create the Issue
+
+We use Github issues to manage requests to speak. Just click on the issues icon on the sidebar to get started:
+
+![issues](https://raw.github.com/seattlejs/seattlejs/master/images/issues.png)
+
+Next, click the "New Issue" button:
+
+![new](https://raw.github.com/seattlejs/seattlejs/master/images/new_issue.png)
+
+Lastly, fill-in the form. Please use the template below
+
+![submit](https://raw.github.com/seattlejs/seattlejs/master/images/submit_issue.png)
+
+
+## Request to Speak Template
+
+```
+# Title of talk
 
 A short description of the talk. The goal should be to explain to people WHY this topic is interesting and HOW it will help them be better developers or build better applications. 1-2 paragraphs is fine.
 
-## Speaker <Your Name>
+Please tell us if this is a:
+* Lightning talk (3-5 min)
+* Regular talk (~30 min)
+* Hands-on workshop (~60 min)
 
-Include a link to your [github profile](https://github.com/seattlejs/), and it'd be cool if you 
-embedded your avatar. What do you do for a living? How do you use JS? Include your twitter handle if you like.
+## Name of speaker
 
-## Remove this section after editing
+Include a short bio. Anything that gives us an idea of why you're qualified to speak on this subject. Feel free to include links to any blog posts or other form on online writing about the topic.
 
-### Submitters
+* [Twitter]()
+* [Github]()
+* [Website]()
 
-To submit your talk, fork this repository and clone it. Copy this template into your desired talk date's directory as `talk-<your_talk_name>.md`. 
+```
 
-Then, edit it to describe your  talk! Commit your new file, and push it to your fork, then issue a pull request titled
-"Talk proposal - <your talk name>". Feel free to ping @SeattleJS on Twitter to ensure we see your pull request.
+## After Submitting
 
-If your talk is accepted, it will get merged and the organizers will reach out to you via email.
-
-### Organizers
-
-Review the talk and the discussion on the pull request before merging. Has this person given good talks in the past? Do they give a lot of talks, or is this their first time? Emphasis should be given to newbies who have attended at least one meetup (so you know they understand the format).
-
-If you decide to accept the talk, merge the pull request and email the contributor (use the email on their commit) to let them know their talk has been accepted. 
-
-If you decide not to accept the talk, but want to consider it for a future meetup, decline the pull request and comment 
-to this effect. Be sure to get specifics from the potential speaker in re: potential meetup dates that'd they'd be able to commit to.
-
-If the talk is unacceptable (for any of the reasons set for the in the code of conduct, or otherwise); close the pull request. Ideally, link to the relevant headers in the code of conduct, or otherwise explain your decision.
-
-After the talk, feel free to edit their talk file to include links to videos, photos, slides, or other relevant links.
-
- 
+Feel free to ping [@SeattleJS](http://twitter.com/SeattleJS) on Twitter and link to your new issue. If your talk is accepted, we'll reach out and let you know.
