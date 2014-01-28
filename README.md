@@ -2,11 +2,10 @@
 
 Welcome to the home of SeattleJS! 
 
-## Speaking
+## Want to get involved?
 
-If you know how to submit an issue on Github, you know how to [request to speak at SeattleJS](/request-to-speak.md).
+If you know how to submit an issue on Github, you know how to:
 
-## Sponsoring
+* [request to speak](/request-to-speak.md)
+* [request to sponsor](/request-to-sponsor.md)
 
-
-## Hosting
