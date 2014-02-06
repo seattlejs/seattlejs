@@ -24,9 +24,7 @@ Lastly, fill-in the form. Please use the template below
 ## Request to Speak Template
 
 ```
-# Request to Speak
-
-## Title of talk
+# Title of talk
 
 A short description of the talk. The goal should be to explain to people WHY this topic is interesting and HOW it will help them be better developers or build better applications. 1-2 paragraphs is fine.
 
