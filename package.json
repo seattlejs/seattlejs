@@ -1,0 +1,22 @@
+{
+  "name": "seattlejs",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.14",
+    "gulp-stylus": "0.0.12",
+    "gulp-autoprefixer": "0.0.6",
+    "gulp-cssmin": "~0.1.0",
+    "gulp-livereload": "~1.1.1",
+    "gulp-connect": "~0.8.0",
+    "connect": "~2.13.0",
+    "http": "0.0.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-jshint": "~1.4.2",
+    "gulp-rename": "~1.0.0",
+    "gulp-concat": "~2.1.7"
+  }
+}
