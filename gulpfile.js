@@ -11,6 +11,7 @@ var open = require('open');
 var rename = require('gulp-rename');
 var stylus = require('gulp-stylus');
 var uglify = require('gulp-uglify');
+var svgmin = require('gulp-svgmin');
 
 var app = connect()
   .use(connect.static(__dirname));
@@ -19,7 +20,8 @@ var options = {
   'port': 8000,
   'host': 'localhost',
   'stylPath': './css/styl/',
-  'jsPath': './js/'
+  'jsPath': './js/',
+  'imgPath': './assets/'
 };
 
 gulp.task('connect', function () {
@@ -55,12 +57,19 @@ gulp.task('html', function() {
     .pipe(livereload());
 });
 
+gulp.task('img', function() {
+  gulp.src(options.imgPath + '*.svg')
+    .pipe(svgmin())
+    .pipe(gulp.dest('./img'));
+});
+
 gulp.task('watch', function() {
   gulp.watch(options.stylPath + '**/*.styl', ['css']);
   gulp.watch(options.jsPath + '*.js', ['js']);
   gulp.watch('*.html', ['html']);
+  gulp.watch(options.imgPath + '*.svg', ['img']);
 });
 
-gulp.task('build', ['css', 'js']);
+gulp.task('build', ['css', 'js', 'img']);
 gulp.task('default', ['connect', 'build', 'watch']);
 gulp.task('start', ['open-browser', 'default']);

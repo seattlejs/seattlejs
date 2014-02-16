@@ -1,0 +1,40 @@
+.header {
+  position: relative;
+
+  padding: 40px 0 120px;
+
+  background-color: #5d9731;
+  background-image: url(../img/skyline-repeating.svg);
+  background-size: auto 70px;
+  background-repeat: repeat-x;
+  background-position: bottom center;
+
+  &:after {
+    content: '';
+
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+
+    display: block;
+    width: 350px;
+    height: 100px;
+    margin-left: -175px;
+
+    background-color: #5d9731;
+    background-image: url(../img/skyline.svg);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: auto 100px;
+  }
+}
+
+.logo {
+  height: 150px;
+  margin: 0;
+
+  background-image: url('../img/js.svg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
