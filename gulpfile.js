@@ -44,6 +44,9 @@ gulp.task('css', function() {
 gulp.task('js', function() {
   gulp.src([
       options.jsPath + 'vendor/jquery-1.10.2.min.js',
+      options.jsPath + 'vendor/lodash-2.4.1.min.js',
+      options.jsPath + 'vendor/handlebars-v1.3.0.js',
+      options.jsPath + 'vendor/moment-2.5.1.min.js',
       options.jsPath + '*.js'
     ])
     .pipe(jshint())

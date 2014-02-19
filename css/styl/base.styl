@@ -7,8 +7,14 @@
  */
 
 /* ==========================================================================
-   Base styles: opinionated defaults
+   Base
    ========================================================================== */
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
 
 html,
 button,
@@ -16,11 +22,33 @@ input,
 select,
 textarea {
   color: $grey-dark;
+  font-family: $ideal;
+  -webkit-font-smoothing: antialiased;
 }
 
 html {
   font-size: 1em;
   line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+  transition: 0.1s ease color;
+
+  &:hover {
+    color: $green;
+    text-decoration: underline;
+  }
 }
 
 /*
