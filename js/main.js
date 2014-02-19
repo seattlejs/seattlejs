@@ -10,7 +10,7 @@ var miniCarouselOpts = {
 var largeCarouselOpts = {
   minSlides: 1,
   maxSlides: 5,
-  slideWidth: 'auto'
+  slideWidth: null
 };
 
 var parseList = function(meetups) {

@@ -16,12 +16,17 @@
 }
 
 .about-section {
-  display: inline-block;
-  width: 50%;
+  margin-top: 48px;
   padding-left: 36px;
 
   font-size: 14px;
   vertical-align: top;
+
+  @media only screen and (min-width: 800px) {
+    display: inline-block;
+    width: 50%;
+    margin-top: 0;
+  }
 }
 
 .about-btn-container {

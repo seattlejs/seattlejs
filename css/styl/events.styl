@@ -6,13 +6,16 @@
   list-style: none;
 
   li {
-    display: inline-block;
-    width: 50%;
     margin-bottom: 36px;
     padding-left: 36px;
 
     font-size: 16px;
     vertical-align: top;
+
+    @media only screen and (min-width: 800px) {
+      display: inline-block;
+      width: 50%;
+    }
   }
 }
 
@@ -68,7 +71,6 @@
   background: $green;
   color: $white;
   font-size: 16px;
-  text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
 
   &:before,
   &:after {
