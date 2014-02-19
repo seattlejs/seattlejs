@@ -36,6 +36,26 @@
   text-align: center;
 }
 
+.btn {
+  display: inline-block;
+  padding: 8px 10px 7px;
+  border: 2px solid $green;
+  border-radius: 3px;
+
+  background: $green;
+  color: $white;
+  font-weight: 700;
+  transition: 0.3s ease background;
+
+  &:hover,
+  &:focus {
+    background: $white;
+    color: $green;
+    outline: none;
+    text-decoration: none;
+  }
+}
+
 .footer {
   padding: 24px 0;
   border-top: 1px solid #000;

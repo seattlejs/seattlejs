@@ -35,6 +35,18 @@ var parseList = function(meetups) {
   $(".events-list").html(template({meetups: meetups}));
 };
 
+var carouselInit = _.debounce(function(e) {
+  var currentWidth = $(window).outerWidth();
+
+  if (currentWidth <= carouselThreshold && pageWidth > carouselThreshold) {
+    $carousel.reloadSlider(miniCarouselOpts);
+  } else if (currentWidth > carouselThreshold && pageWidth < carouselThreshold) {
+    $carousel.reloadSlider(largeCarouselOpts);
+  }
+
+  pageWidth = currentWidth;
+}, 600);
+
 $.ajax({
   url: 'http://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&group_urlname=seattlejs&desc=false&offset=0&format=json&page=20&fields=&sig_id=40626962&sig=3b829c9a900131ba6fa73ac8da85b2beae33ded2&callback=?',
   dataType: 'json',
@@ -48,17 +60,5 @@ if (pageWidth > carouselThreshold) {
 } else {
   $carousel.bxSlider(miniCarouselOpts);
 }
-
-var carouselInit = _.debounce(function(e) {
-  var currentWidth = $(window).outerWidth();
-
-  if (currentWidth <= carouselThreshold && pageWidth > carouselThreshold) {
-    $carousel.reloadSlider(miniCarouselOpts);
-  } else if (currentWidth > carouselThreshold && pageWidth < carouselThreshold) {
-    $carousel.reloadSlider(largeCarouselOpts);
-  }
-
-  pageWidth = currentWidth;
-}, 600);
 
 $(window).on('resize', carouselInit);

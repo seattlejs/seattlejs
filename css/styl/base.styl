@@ -45,8 +45,10 @@ a {
   text-decoration: none;
   transition: 0.1s ease color;
 
-  &:hover {
+  &:hover,
+  &:focus {
     color: $green;
+    outline: none;
     text-decoration: underline;
   }
 }
