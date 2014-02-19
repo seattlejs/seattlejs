@@ -12,6 +12,8 @@ var rename = require('gulp-rename');
 var stylus = require('gulp-stylus');
 var uglify = require('gulp-uglify');
 var svgmin = require('gulp-svgmin');
+var handlebars = require('gulp-handlebars');
+var declare = require('gulp-declare');
 
 var app = connect()
   .use(connect.static(__dirname));
@@ -41,18 +43,29 @@ gulp.task('css', function() {
     .pipe(livereload());
 });
 
+gulp.task('templates', function () {
+  gulp.src(['./templates/*.hbs'])
+    .pipe(handlebars())
+    .pipe(declare({
+      namespace: 'App.templates'
+    }))
+    .pipe(concat('templates.js'))
+    .pipe(gulp.dest(options.jsPath));
+});
+
 gulp.task('js', function() {
   gulp.src([
       options.jsPath + 'vendor/jquery-1.10.2.min.js',
       options.jsPath + 'vendor/lodash-2.4.1.min.js',
-      options.jsPath + 'vendor/handlebars-v1.3.0.js',
+      options.jsPath + 'vendor/handlebars-runtime-v1.3.0.js',
       options.jsPath + 'vendor/moment-2.5.1.min.js',
       options.jsPath + 'vendor/jquery.bxslider.js',
-      options.jsPath + '*.js'
+      options.jsPath + 'templates.js',
+      options.jsPath + 'main.js'
     ])
     .pipe(jshint())
     .pipe(concat('site.min.js'))
-    .pipe(uglify())
+    // .pipe(uglify())
     .pipe(gulp.dest(options.jsPath + 'dist'));
 });
 
@@ -74,6 +87,6 @@ gulp.task('watch', function() {
   gulp.watch(options.imgPath + '*.svg', ['img']);
 });
 
-gulp.task('build', ['css', 'js']);
+gulp.task('build', ['css', 'templates', 'js']);
 gulp.task('default', ['connect', 'build', 'watch']);
 gulp.task('start', ['open-browser', 'default']);

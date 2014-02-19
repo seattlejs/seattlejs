@@ -18,6 +18,8 @@
     "gulp-jshint": "~1.4.2",
     "gulp-rename": "~1.0.0",
     "gulp-concat": "~2.1.7",
-    "gulp-svgmin": "~0.4.1"
+    "gulp-svgmin": "~0.4.1",
+    "gulp-handlebars": "~1.0.2",
+    "gulp-declare": "~0.1.0"
   }
 }

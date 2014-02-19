@@ -1,0 +1,44 @@
+<ul class="event-list clearfix">
+  {{#each meetups}}
+    <li>
+      <article class="event module">
+        <h3 class="event-title event-section"><a href="{{event_url}}">{{name}}</a></h3>
+
+        <div class="event-section">
+          <p class="event-description">{{{display_description}}}</p>
+
+          <p class="event-attendance">
+            <span class="event-waitlist"><b>{{yes_rsvp_count}}</b> waiting</span>
+            <span><b>{{yes_rsvp_count}}</b> attending</span>
+          </p>
+
+          {{#if waitlist_count}}
+            <p>{{waitlist_count}} waiting</p>
+          {{/if}}
+
+          {{#with venue}}
+            <div class="event-location">
+              <h4 class="event-location-content event-location-heading">
+                <a href="https://www.google.com/maps?q={{address_1}}, {{city}}, {{state}}">
+                  {{name}}
+                </a>
+              </h4>
+
+              <p class="event-location-content">
+                {{address_1}},
+
+                {{#if address_2}}
+                  {{address_2}},
+                {{/if}}
+
+                {{city}}, {{state~}}
+              </p>
+            </div>
+          {{/with}}
+        </div>
+
+        <time class="event-time" datetime="{{data_time}}">{{display_date}}, <b>{{display_time}}</b></time></p>
+      </article>
+    </li>
+  {{/each}}
+</ul>

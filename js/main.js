@@ -1,5 +1,4 @@
-var source   = $("#event-template").html();
-var template = Handlebars.compile(source);
+var template = App.templates['events'];
 var pageWidth = $(window).outerWidth();
 var $carousel = $('.bxslider');
 var carouselThreshold = 400;
@@ -32,7 +31,7 @@ var parseList = function(meetups) {
       meetup.data_time = moment(meetup.time).format();
     }).value();
 
-  $(".events-list").html(template({meetups: meetups}));
+  $(".events-list").html(Handlebars.template(template)({meetups: meetups}));
 };
 
 var carouselInit = _.debounce(function(e) {
