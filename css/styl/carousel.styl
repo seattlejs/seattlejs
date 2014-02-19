@@ -1,0 +1,124 @@
+@import 'jquery.bxslider';
+
+.carousel-sibling {
+  position: relative;
+  z-index: 1;
+
+  box-shadow: 0 2px 2px rgba(0,0,0,0.3);
+}
+
+.bxslider {
+  margin: 0;
+  padding: 0;
+
+  li {
+    overflow: hidden;
+  }
+}
+
+.bx-wrapper {
+  margin-bottom: 0;
+
+  background: #000;
+
+  img {
+    max-width: none;
+    height: 225px;
+    margin: 0 auto;
+
+    @media only screen and (min-width: 400px) {
+      height: auto;
+    }
+  }
+}
+
+.bx-viewport {
+  height: 225px;
+
+  @media only screen and (min-width: 400px) {
+    height: auto;
+  }
+}
+
+.bx-prev,
+.bx-next {
+  position: absolute;
+  top: 50%;
+
+  width: 44px;
+  height: 44px;
+  margin-top: -22px;
+
+  background: #aaa;
+  background: rgba(255,255,255,0.5);
+  text-indent: -999em;
+  transition: 0.3s ease background;
+
+  &:hover {
+    background: $white;
+    background: rgba(255,255,255,0.8);
+  }
+
+  &:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    display: block;
+    margin-top: -12px;
+    margin-left: -20px;
+    border: 12px solid transparent;
+    border-right-color: $grey-dark;
+    border-right-color: rgba(0,0,0,0.6);
+  }
+}
+
+.bx-prev {
+  left: 0;
+}
+
+.bx-next {
+  right: 0;
+
+  &:after {
+    margin-left: -4px;
+    border-right-color: transparent;
+    border-left-color: $grey-dark;
+    border-left-color: rgba(0,0,0,0.6);
+  }
+}
+
+.bx-pager {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  text-align: center;
+}
+
+.bx-pager-item {
+  display: inline-block;
+}
+
+.bx-pager-link {
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 5px;
+  border-radius: 50%;
+
+  background: #aaa;
+  background: rgba(255,255,255,0.5);
+  text-indent: -999em;
+  transition: 0.3s ease background;
+
+  &:hover {
+    background: $white;
+  }
+
+  &.active {
+    background: $grey-dark;
+  }
+}

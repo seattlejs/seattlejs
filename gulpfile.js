@@ -47,6 +47,7 @@ gulp.task('js', function() {
       options.jsPath + 'vendor/lodash-2.4.1.min.js',
       options.jsPath + 'vendor/handlebars-v1.3.0.js',
       options.jsPath + 'vendor/moment-2.5.1.min.js',
+      options.jsPath + 'vendor/jquery.bxslider.js',
       options.jsPath + '*.js'
     ])
     .pipe(jshint())
