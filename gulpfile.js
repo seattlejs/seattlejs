@@ -36,7 +36,10 @@ gulp.task('open-browser', function() {
 
 gulp.task('css', function() {
   gulp.src(options.stylPath + 'main.styl')
-    .pipe(stylus())
+    .pipe(stylus({
+      urlFunc: ['embedurl'],
+      "resolve url": true
+    }))
     .pipe(autoprefixer())
     .pipe(cssmin())
     .pipe(gulp.dest('./css'))
