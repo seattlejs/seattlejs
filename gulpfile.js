@@ -73,6 +73,6 @@ gulp.task('watch', function() {
   gulp.watch(options.imgPath + '*.svg', ['img']);
 });
 
-gulp.task('build', ['css', 'js', 'img']);
+gulp.task('build', ['css', 'js']);
 gulp.task('default', ['connect', 'build', 'watch']);
 gulp.task('start', ['open-browser', 'default']);
