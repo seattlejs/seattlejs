@@ -3,10 +3,12 @@ var pageWidth = $(window).outerWidth();
 var $carousel = $('.bxslider');
 var carouselThreshold = 400;
 var miniCarouselOpts = {
+  auto: true,
   minSlides: 1,
   maxSlides: 1
 };
 var largeCarouselOpts = {
+  auto: true,
   minSlides: 1,
   maxSlides: 5,
   slideWidth: null
