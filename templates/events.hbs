@@ -4,14 +4,16 @@
       <article class="event module">
         <h3 class="event-title event-section"><a href="{{event_url}}">{{name}}</a></h3>
 
-        <div class="event-section">
-          <p class="event-description">{{{display_description}}}</p>
+        <div class="event-section event-content">
+          {{#if display_description}}
+            <p class="event-description">{{{display_description}}}</p>
+          {{/if}}
 
           <p class="event-attendance">
             {{#if waitlist_count}}
               <span class="event-waitlist"><b>{{waitlist_count}}</b> waiting</span>
             {{/if}}
-            <span><b>{{yes_rsvp_count}}</b> attending</span>
+            <span><b>{{yes_rsvp_count}}</b> attending test</span>
           </p>
 
           {{#with venue}}
