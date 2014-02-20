@@ -8,13 +8,11 @@
           <p class="event-description">{{{display_description}}}</p>
 
           <p class="event-attendance">
-            <span class="event-waitlist"><b>{{yes_rsvp_count}}</b> waiting</span>
+            {{#if waitlist_count}}
+              <span class="event-waitlist"><b>{{waitlist_count}}</b> waiting</span>
+            {{/if}}
             <span><b>{{yes_rsvp_count}}</b> attending</span>
           </p>
-
-          {{#if waitlist_count}}
-            <p>{{waitlist_count}} waiting</p>
-          {{/if}}
 
           {{#with venue}}
             <div class="event-location">
