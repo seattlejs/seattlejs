@@ -24,7 +24,7 @@ function program1(depth0,data) {
   if (stack1 = helpers.yes_rsvp_count) { stack1 = stack1.call(depth0, {hash:{},data:data}); }
   else { stack1 = (depth0 && depth0.yes_rsvp_count); stack1 = typeof stack1 === functionType ? stack1.call(depth0, {hash:{},data:data}) : stack1; }
   buffer += escapeExpression(stack1)
-    + "</b> attending test</span>\n          </p>\n\n          ";
+    + "</b> attending</span>\n          </p>\n\n          ";
   stack1 = helpers['with'].call(depth0, (depth0 && depth0.venue), {hash:{},inverse:self.noop,fn:self.program(6, program6, data),data:data});
   if(stack1 || stack1 === 0) { buffer += stack1; }
   buffer += "\n        </div>\n\n        <time class=\"event-time\" datetime=\"";
