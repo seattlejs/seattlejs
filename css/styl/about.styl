@@ -16,17 +16,21 @@
 }
 
 .about-sections {
-  display: flex;
   margin-bottom: 24px;
+
+
+  @media only screen and (min-width: 800px) {
+    display: flex;
+    margin-top: 0;
+  }
+
 }
 
 .about-section {
   position: relative;
-
   margin-top: 48px;
   padding-bottom: 50px;
   padding-left: 36px;
-
   font-size: 14px;
   vertical-align: top;
 
@@ -35,6 +39,7 @@
     width: 50%;
     margin-top: 0;
   }
+
 }
 
 .about-btn-container {
