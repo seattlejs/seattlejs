@@ -1,3 +1,5 @@
+$("html").removeClass("no-js");
+
 var template = App.templates['events'];
 var pageWidth = $(window).outerWidth();
 var $carousel = $('.bxslider');
@@ -5,7 +7,8 @@ var carouselThreshold = 400;
 var miniCarouselOpts = {
   auto: true,
   minSlides: 1,
-  maxSlides: 1
+  maxSlides: 1,
+  touchEnabled: false
 };
 var largeCarouselOpts = {
   auto: true,
@@ -18,8 +21,14 @@ var parseList = function(meetups) {
   var charLimit = 180;
 
   meetups = _.chain(meetups)
-    .filter(function(meetup) {
-      return meetup.name.indexOf("Volunteer") === -1;
+    .reject(function(meetup) {
+      if (meetup.name.indexOf("Volunteer") !== -1) {
+        return meetup;
+      }
+
+      if (moment().diff(moment(meetup.time), "months") < -1) {
+        return meetup;
+      }
     }).forEach(function(meetup) {
       var description = meetup.description.replace(/(<([^>]+)>)/ig,'');
 
@@ -34,6 +43,8 @@ var parseList = function(meetups) {
     }).value();
 
   $(".events-list").html(Handlebars.template(template)({meetups: meetups}));
+
+  $(".js-meetup-btn").html("More Events");
 };
 
 var carouselInit = _.debounce(function(e) {
