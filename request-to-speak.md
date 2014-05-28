@@ -9,7 +9,7 @@ This is a great opportunity to share what you know with the community, meet new 
 ## How it works
 
 - Read the guidelines below.
-- Submit a proposal via a [GitHub issue](//github.com/seattlejs/seattlejs/issues/new) or email talks@seattlejs.com. Please follow the [template](#template).
+- Submit a proposal via a [GitHub issue](https://github.com/seattlejs/seattlejs/issues/new) or email talks@seattlejs.com. Please follow the [template](#template).
 - If the proposal sounds like something that will work for our members, we'll group the talk with similar proposals and schedule it.
 
 *Why GH issues? It makes it easy for us to schedule things. If you'd rather email--no biggie! Just send your proposal via email (talks@seattlejs.com).*
@@ -72,8 +72,6 @@ Here are a few to get you started:
 - The Case for (and against) JQuery.
 
 - Why cat GIFs are the best thing ever.
-
-
 
 
 ## Talk Proposal Template
