@@ -1,48 +1,92 @@
-# Speaking at SeattleJS
+# Call for Speakers
 
-We believe that anyone who writes code for a living is capable of giving an awesome talk at SeattleJS. Our community is ultimately about pulling together a passionate group of web developers, facilitating learning and building relationships. Sometimes the best talks are from well-known speakers who manage popular open source projects. Sometimes they are from developers who have solved a gnarly problem and want to share their solution. 
+We host meetups each month. Each meetup has a few twenty-minute talks and a handful of lightning talks.
 
-There are many kinds of great talks, but they all focus on **WHY** a developer should adopt a technology or process rather than simply WHAT it is.
+The speakers are folks just like you!
 
-Below are some simple steps for submitting a request to speak at SeattleJS and a template you can use so that you include all the relevant information.
+This is a great opportunity to share what you know with the community, meet new people, and impress your boss with your public-speaking skills.
 
-## Create the Issue
+## How it works
 
-We use Github issues to manage requests to speak. Just click on the issues icon on the sidebar to get started:
+- Read the guidelines below.
+- Submit a proposal via a [GitHub issue](https://github.com/seattlejs/seattlejs/issues/new) or email talks@seattlejs.com. Please follow the [template](#template).
+- If the proposal sounds like something that will work for our members, we'll group the talk with similar proposals and schedule it.
 
-![issues](https://raw.github.com/seattlejs/seattlejs/master/images/issues.png)
-
-Next, click the "New Issue" button:
-
-![new](https://raw.github.com/seattlejs/seattlejs/master/images/new_issue.png)
-
-Lastly, fill-in the form. Please use the template below
-
-![submit](https://raw.github.com/seattlejs/seattlejs/master/images/submit_issue.png)
+*Why GH issues? It makes it easy for us to schedule things. If you'd rather email--no biggie! Just send your proposal via email (talks@seattlejs.com).*
 
 
-## Request to Speak Template
+## What makes a good talk?
+
+Seattle.JS has over 1,700 members, but obviously not every one shows up for each meetup (eek! where would we put them?). The audience ranges from experienced engineers who remember Life Before Chrome to newbies writing their first event listener.
+
+Since our community has such a broad range of experience and interests, there isn't a one-size-fits-all talk. We group proposals into similar themes for each meetup, and the folks that are interested in the topic will come out.
+
+## What's in a proposal?
+
+In your proposal, tell us about your talk and a little about you. If you have any additional materials, like a slide deck, site, or repo, please link to them. [Here's a template](#template).
+
+## Topics
+
+We're always interested in:
+
+*Edge:* What's coming up in the next version of browsers and new packages we should know about.
+
+*Case studies:* Have you built something interesting? Demo the project and explain architectural and design decisions as well as problems you encountered.
+
+*Tips & Tricks:* Do you have a unique workflow that you want to share? A handy library you've discovered?
+
+*Cat GIFs:* no explanation required.
+
+**Specific topics**
+
+These are some interesting topics that might appeal to our community. If you don't see a topic that's interesting to you, let us know (talks@seattlejs.com)!
+
+We're open to proposals on *any* topic related to JavaScript.
+
+Here are a few to get you started:
+
+- JavaScript and hardware: communicating over sockets (Leap, Arduino, etc.)
+
+- Class War - approaches to writing classes, private and public properties, singletons, factories, and helpers.
+
+- JavaScript and the rest of the world. Did you know there are other web platforms besides Node.js? The ins-and-outs of JS and Rails, Python, Go, etc.
+
+- Creative Code - what can you do with JavaScript other than move text around?
+
+- Task Runners - why you need them, what they do, and how to use them (Gulp, Grunt)
+
+- Idiomatic.js - the right way to write JavaScript?
+
+- Designing complex interfaces: modals, panels, flows. Managing application state and user context.
+
+- Responsive design - what it means and how it works.
+
+- Single Page Apps: architectural approaches and decisions.
+
+- Performance: how to get the most out of JavaScript.
+
+- Games - how to develop games with JavaScript.
+
+- Mobile: what you can and can't do with JavaScript on mobile devices.
+
+- The Case for (and against) JQuery.
+
+- Why cat GIFs are the best thing ever.
+
+
+## Talk Proposal Template
+[](#template)
 
 ```
 # Title of talk
 
 A short description of the talk. The goal should be to explain to people WHY this topic is interesting and HOW it will help them be better developers or build better applications. 1-2 paragraphs is fine.
 
-Please tell us if this is a:
-* Lightning talk (3-5 min)
-* Regular talk (~30 min)
-* Hands-on workshop (~60 min)
+Include a short bio--anything that gives us an idea of why you're qualified to speak on this subject. Feel free to include any relevant links.
 
-## Name of speaker
-
-Include a short bio. Anything that gives us an idea of why you're qualified to speak on this subject. Feel free to include links to any blog posts or other form on online writing about the topic.
-
+* Name
 * [Twitter]()
 * [Github]()
 * [Website]()
 
 ```
-
-## After Submitting
-
-Feel free to ping [@SeattleJS](http://twitter.com/SeattleJS) on Twitter and link to your new issue. If your talk is accepted, we'll reach out and let you know.
