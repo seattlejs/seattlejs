@@ -37,6 +37,7 @@ var parseList = function(meetups) {
       }
 
       meetup.display_description = description;
+      meetup.display_day = moment(meetup.time).format('dddd');
       meetup.display_date = moment(meetup.time).format('MMMM Do');
       meetup.display_time = moment(meetup.time).format('h:mma');
       meetup.data_time = moment(meetup.time).format();

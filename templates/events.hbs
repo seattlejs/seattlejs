@@ -37,7 +37,11 @@
           {{/with}}
         </div>
 
-        <time class="event-time" datetime="{{data_time}}">{{display_date}}, <b>{{display_time}}</b></time></p>
+        <time class="event-time" datetime="{{data_time}}">
+          {{display_day}},
+          {{display_date}} at
+          <b>{{display_time}}</b>
+        </time>
       </article>
     </li>
   {{/each}}
