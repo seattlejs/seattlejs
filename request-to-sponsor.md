@@ -1,6 +1,6 @@
 # Sponsoring SeattleJS
 
-SeattleJS could not exist without the support of the community, and this includes companies who understand the importance of investing in the local developer community. Improving the quality of the developer community in and around Seattle leads means that better products and services are built here and hopefully more companies choose to stay here.
+SeattleJS could not exist without the support of the community, and this includes companies who understand the importance of investing in the local developer community. Improving the quality of the developer community in and around Seattle means that better products and services are built here and hopefully more companies choose to stay here.
 
 ## How You Can Help
 
