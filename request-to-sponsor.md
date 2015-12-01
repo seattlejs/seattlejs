@@ -4,7 +4,7 @@ SeattleJS could not exist without the support of the community, and this include
 
 ## How You Can Help
 
-SeattleJS meets anywhere from once to twice a month. Our events are free (or near free) and we rely on sponsors to help pay for things like the venue, food and drink. $500 is a good ballpark, depending on venue and attendance.
+SeattleJS meets anywhere from once to twice a month. Our events are free (or near free) and we rely on sponsors to help pay for things like the venue, food and drink. $1500 is a good ballpark, depending on venue and attendance.
 
 ## Submitting a Sponsorship Request
 
