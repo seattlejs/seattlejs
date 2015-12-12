@@ -1,6 +1,6 @@
 # Call for Speakers
 
-We host meetups each month. Each meetup has a few twenty-minute talks and a handful of lightning talks.
+We host meetups each month on the second Thursday. A typical meetup has two 20-minute talks and may also include some short lightning talks.
 
 The speakers are folks just like you!
 
