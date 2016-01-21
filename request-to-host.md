@@ -25,9 +25,11 @@ Lastly, fill-in the form. Please use the template below
 ![submit](https://raw.github.com/seattlejs/seattlejs/master/images/submit_host.png)
 
 
-## Request to Sponsor Template
+## Request to Host Template
 
 ```
+## Company Info
+
 * Name of company / venue
 * Address
 * Neighborhood
