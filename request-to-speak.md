@@ -1,6 +1,6 @@
 # Call for Speakers
 
-We host meetups each month on the second Thursday. A typical meetup has two 20-minute talks and may also include some short lightning talks.
+We host meetups each month on the second Thursday. A typical meetup has one 25-minute _feature_ talk and two 10-minute _lighting_ talks.
 
 The speakers are folks just like you!
 
@@ -10,6 +10,7 @@ This is a great opportunity to share what you know with the community, meet new 
 
 - Read the guidelines below.
 - Submit a proposal via a [GitHub issue](https://github.com/seattlejs/seattlejs/issues/new) or email talks@seattlejs.com. Please follow the [template](#talk-proposal-template).
+- If you know you want to do a quicker presentation (~10 min) then add a _Lightning!_ tag to the issue.
 - If the proposal sounds like something that will work for our members, we'll group the talk with similar proposals and schedule it.
 
 *Why GH issues? It makes it easy for us to schedule things. If you'd rather email--no biggie! Just send your proposal via email (talks@seattlejs.com).*
