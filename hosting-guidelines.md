@@ -8,6 +8,8 @@ In order to be a host, you must be able to provide:
 * Good and accessible Wi-Fi
 * Ability to project (audio input also helps)
 
+We ask that the room is set up by 6pm on the night of the meetup. Our organizers will arrive between 5:30 and 6 to help get things set-up and assist with any logistics that need handling.
+
 You can check out our Meetup page and see which of our upcoming meetups does not currently have a venue. If you're interested in hosting, just follow these directions.
 
 ## Submitting a Hosting Request
