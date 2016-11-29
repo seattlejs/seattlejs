@@ -4,7 +4,7 @@ SeattleJS often relies on local Seattle tech companies to act as a host for our 
 
 In order to be a host, you must be able to provide:
 
-* Seating for 50+
+* Seating for 150+
 * Good and accessible Wi-Fi
 * Ability to project (audio input also helps)
 
