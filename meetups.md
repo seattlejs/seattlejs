@@ -12,6 +12,8 @@ Speaker | Length | Status | CoC Verified
 @tmero | | confirmed | yes
 
 ## March 9, 2017
+[https://www.meetup.com/seattlejs/events/235874373/](https://www.meetup.com/seattlejs/events/235874373/)
+
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @skifaster | 10 | tentative | no
@@ -19,5 +21,7 @@ Speaker | Length | Status | CoC Verified
 @vikadvani | 15 | tentative | no
 
 ## April 13, 2017
+[https://www.meetup.com/seattlejs/events/230354991/](https://www.meetup.com/seattlejs/events/230354991/)
+
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
