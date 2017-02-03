@@ -19,8 +19,8 @@ Speaker | Length | Status | CoC Verified
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@guahanweb | 25 | confirmed | yes
 @skifaster | 10 | tentative | no
-@evanboyle | 25 | tentative | no
 @vikadvani | 15 | tentative | no
 
 ## February 9, 2017
