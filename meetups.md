@@ -1,3 +1,10 @@
+## May 11, 2017
+[https://www.meetup.com/seattlejs/events/231089469/](https://www.meetup.com/seattlejs/events/231089469/)
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@cookieguru | 25 | tentative | no
+
 ## April 13, 2017
 [https://www.meetup.com/seattlejs/events/230354991/](https://www.meetup.com/seattlejs/events/230354991/)
 
