@@ -17,7 +17,7 @@ Speaker | Length | Status | CoC Verified
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@evanboyle | 25 | tentative | no
+@evanboyle | 25 | confirmed | no
 @krotscheck | 10 | tentative | no
 @estobbart | 10 | confirmed | yes
 
