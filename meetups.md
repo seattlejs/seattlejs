@@ -3,7 +3,7 @@
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@jj09 | 25 | confirmed | no
+@jj09 | 25 | confirmed | yes
 
 ## May 11, 2017
 [https://www.meetup.com/seattlejs/events/231089469/](https://www.meetup.com/seattlejs/events/231089469/)
