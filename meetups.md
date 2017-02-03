@@ -10,6 +10,9 @@ Speaker | Length | Status | CoC Verified
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@evanboyle | 25 | tentative | no
+@krotscheck | 10 | tentative | no
+@estobbart | 10 | confirmed | yes
 
 ## March 9, 2017
 [https://www.meetup.com/seattlejs/events/235874373/](https://www.meetup.com/seattlejs/events/235874373/)
