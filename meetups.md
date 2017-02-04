@@ -18,8 +18,8 @@ Speaker | Length | Status | CoC Verified
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @evanboyle | 25 | confirmed | no
-@krotscheck | 10 | tentative | no
 @estobbart | 10 | confirmed | yes
+@vikadvani | 15 | tentative | no
 
 ## March 9, 2017
 [https://www.meetup.com/seattlejs/events/235874373/](https://www.meetup.com/seattlejs/events/235874373/)
@@ -28,7 +28,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @guahanweb | 25 | confirmed | yes
 @skifaster | 10 | tentative | no
-@vikadvani | 15 | tentative | no
+@krotscheck | 10 | tentative | no
 
 ## February 9, 2017
 [https://www.meetup.com/seattlejs/events/235567120/](https://www.meetup.com/seattlejs/events/235567120/)
