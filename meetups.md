@@ -19,7 +19,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @evanboyle | 25 | confirmed | no
 @estobbart | 10 | confirmed | yes
-@vikadvani | 15 | tentative | no
+@vikadvani | 15 | confirmed | yes
 
 ## March 9, 2017
 [https://www.meetup.com/seattlejs/events/235874373/](https://www.meetup.com/seattlejs/events/235874373/)
