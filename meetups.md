@@ -1,6 +1,10 @@
 ## June 8, 2017
 <link>
 
+Host: 
+
+Sponsor: 
+
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @jj09 | 25 | confirmed | yes
@@ -8,12 +12,20 @@ Speaker | Length | Status | CoC Verified
 ## May 11, 2017
 [https://www.meetup.com/seattlejs/events/231089469/](https://www.meetup.com/seattlejs/events/231089469/)
 
+Host: Galvanize
+
+Sponsor: 
+
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @cookieguru | 25 | tentative | no
 
 ## April 13, 2017
 [https://www.meetup.com/seattlejs/events/230354991/](https://www.meetup.com/seattlejs/events/230354991/)
+
+Host: Galvanize
+
+Sponsor: 
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -23,6 +35,10 @@ Speaker | Length | Status | CoC Verified
 
 ## March 9, 2017
 [https://www.meetup.com/seattlejs/events/235874373/](https://www.meetup.com/seattlejs/events/235874373/)
+
+Host: Galvanize
+
+Sponsor: Galvanize
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
