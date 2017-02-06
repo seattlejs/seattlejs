@@ -43,7 +43,7 @@ Sponsor: Galvanize
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @guahanweb | 25 | confirmed | yes
-@skifaster | 10 | confirmed | no
+@skifaster | 10 | confirmed | yes
 @krotscheck | 10 | tentative | no
 
 ## February 9, 2017
