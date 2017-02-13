@@ -1,9 +1,9 @@
 ## June 8, 2017
 <link>
 
-Host: 
+Host: Dell EMC Isilon
 
-Sponsor: 
+Sponsor: Dell EMC Isilon
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
