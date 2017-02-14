@@ -30,7 +30,7 @@ Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@evanboyle | 25 | confirmed | no
+@evanboyle | 25 | confirmed | yes
 @estobbart | 10 | confirmed | yes
 @vikadvani | 15 | confirmed | yes
 
