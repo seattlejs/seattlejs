@@ -19,7 +19,7 @@ Sponsor:
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @cookieguru | 25 | confirmed | yes
-@haacked | 35 | tentative | no
+@haacked | 35 | confirmed | no
 
 ## April 13, 2017
 [https://www.meetup.com/seattlejs/events/230354991/](https://www.meetup.com/seattlejs/events/230354991/)
