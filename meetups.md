@@ -8,6 +8,7 @@ Sponsor: Dell EMC Isilon
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @jj09 | 25 | confirmed | yes
+@krotscheck | 10 | tentative | no
 
 ## May 11, 2017
 [https://www.meetup.com/seattlejs/events/231089469/](https://www.meetup.com/seattlejs/events/231089469/)
@@ -45,7 +46,6 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @guahanweb | 25 | confirmed | yes
 @skifaster | 10 | confirmed | yes
-@krotscheck | 10 | tentative | no
 
 ## February 9, 2017
 [https://www.meetup.com/seattlejs/events/235567120/](https://www.meetup.com/seattlejs/events/235567120/)
