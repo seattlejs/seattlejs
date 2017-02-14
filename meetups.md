@@ -18,7 +18,7 @@ Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@cookieguru | 25 | tentative | no
+@cookieguru | 25 | confirmed | yes
 @haacked | 35 | tentative | no
 
 ## April 13, 2017
