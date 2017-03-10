@@ -1,3 +1,14 @@
+## July 6, 2017
+[https://www.meetup.com/seattlejs/events/dczsvkywkbrb/](https://www.meetup.com/seattlejs/events/dczsvkywkbrb/)
+
+Host: 
+
+Sponsor: 
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@thomaswilburn | 25 | tentative | no
+
 ## June 8, 2017
 <link>
 
