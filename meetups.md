@@ -26,7 +26,7 @@ Speaker | Length | Status | CoC Verified
 
 Host: Galvanize
 
-Sponsor: 
+Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -38,7 +38,7 @@ Speaker | Length | Status | CoC Verified
 
 Host: Galvanize
 
-Sponsor: 
+Sponsor: CBREDev
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
