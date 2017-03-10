@@ -10,7 +10,7 @@ Speaker | Length | Status | CoC Verified
 @thomaswilburn | 25 | tentative | no
 
 ## June 8, 2017
-<link>
+[https://www.meetup.com/seattlejs/events/237924502/](https://www.meetup.com/seattlejs/events/237924502/)
 
 Host: Dell EMC Isilon
 
