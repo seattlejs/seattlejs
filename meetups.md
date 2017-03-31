@@ -1,4 +1,4 @@
-## August 10, 2017
+## September 14, 2017
 []()
 
 Host: 
@@ -7,7 +7,10 @@ Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@haacked | 35 | tentative | yes
 
+## August 10, 2017
+SeattleJS Conference
 
 ## July 13, 2017
 [https://www.meetup.com/seattlejs/events/dczsvkywkbrb/](https://www.meetup.com/seattlejs/events/dczsvkywkbrb/)
@@ -31,7 +34,6 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @jj09 | 25 | confirmed | yes
 @krotscheck | 10 | confirmed | yes
-@ChrisRus | 10 | unconfirmed | no
 
 ## May 11, 2017
 [https://www.meetup.com/seattlejs/events/231089469/](https://www.meetup.com/seattlejs/events/231089469/)
@@ -43,7 +45,7 @@ Sponsor: Moz
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @cookieguru | 25 | confirmed | yes
-@haacked | 35 | confirmed | yes
+@ChrisRus | 10 | unconfirmed | no
 
 ## April 13, 2017
 [https://www.meetup.com/seattlejs/events/230354991/](https://www.meetup.com/seattlejs/events/230354991/)
