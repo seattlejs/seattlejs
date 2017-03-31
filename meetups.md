@@ -1,4 +1,15 @@
-## July 6, 2017
+## August 10, 2017
+[]()
+
+Host: 
+
+Sponsor: 
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
+
+## July 13, 2017
 [https://www.meetup.com/seattlejs/events/dczsvkywkbrb/](https://www.meetup.com/seattlejs/events/dczsvkywkbrb/)
 
 Host: 
@@ -20,13 +31,14 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @jj09 | 25 | confirmed | yes
 @krotscheck | 10 | confirmed | yes
+@ChrisRus | 10 | unconfirmed | no
 
 ## May 11, 2017
 [https://www.meetup.com/seattlejs/events/231089469/](https://www.meetup.com/seattlejs/events/231089469/)
 
-Host: Galvanize
+Host: Moz
 
-Sponsor:
+Sponsor: Moz
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -36,9 +48,9 @@ Speaker | Length | Status | CoC Verified
 ## April 13, 2017
 [https://www.meetup.com/seattlejs/events/230354991/](https://www.meetup.com/seattlejs/events/230354991/)
 
-Host: Galvanize
+Host: Simply Measured
 
-Sponsor: CBREDev
+Sponsor: CBRE Dev
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
