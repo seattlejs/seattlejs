@@ -18,7 +18,7 @@ This is a great opportunity to share what you know with the community, meet new 
 
 ## What makes a good talk?
 
-Seattle.JS has over 1,700 members, but obviously not every one shows up for each meetup (eek! where would we put them?). The audience ranges from experienced engineers who remember Life Before Chrome to newbies writing their first event listener.
+Seattle.JS has over 4,000 members, but obviously not every one shows up for each meetup (eek! where would we put them?). The audience ranges from experienced engineers who remember Life Before Chrome to newbies writing their first event listener.
 
 Since our community has such a broad range of experience and interests, there isn't a one-size-fits-all talk. We group proposals into similar themes for each meetup, and the folks that are interested in the topic will come out.
 
