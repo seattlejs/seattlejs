@@ -45,7 +45,7 @@ Sponsor: Moz
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @cookieguru | 25 | confirmed | yes
-@ChrisRus | 10 | unconfirmed | no
+@ChrisRus | 10 | confirmed | yes
 
 ## April 13, 2017
 [https://www.meetup.com/seattlejs/events/230354991/](https://www.meetup.com/seattlejs/events/230354991/)
