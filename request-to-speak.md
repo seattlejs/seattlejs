@@ -1,6 +1,6 @@
 # Call for Speakers
 
-We host meetups each month on the second Thursday. A typical meetup has one 25-minute _feature_ talk and two 10-minute _lighting_ talks.
+We host meetups each month on the second Thursday. A typical meetup has one 25-minute _feature_ talk and two 10-minute _lightning_ talks.
 
 The speakers are folks just like you!
 
