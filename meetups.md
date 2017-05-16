@@ -22,6 +22,7 @@ Sponsor:
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @thomaswilburn | 25 | confirmed | yes
+@JoshuaKGoldberg | 10 | tentative | no
 
 ## June 8, 2017
 [https://www.meetup.com/seattlejs/events/237924502/](https://www.meetup.com/seattlejs/events/237924502/)
@@ -34,6 +35,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @jj09 | 25 | confirmed | yes
 @krotscheck | 10 | confirmed | yes
+@tmero | 10 | tentative | yes
 
 ## May 11, 2017
 [https://www.meetup.com/seattlejs/events/231089469/](https://www.meetup.com/seattlejs/events/231089469/)
