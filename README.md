@@ -12,6 +12,6 @@ Welcome to the home of SeattleJS! We are a community of web developers in the Se
 If you know how to submit an issue on Github, you know how to:
 
 * [Request to speak](/request-to-speak.md)
-* [Request to sponsor](/request-to-sponsor.md)
+* [Request to sponsor](/sponsor-guidelines.md)
 * [Request to host](/request-to-host.md)
 
