@@ -1,3 +1,14 @@
+## October 12, 2017
+[]()
+
+Host:
+
+Sponsor:
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@haacked | 35 | tentative | yes
+
 ## September 14, 2017
 []()
 
@@ -7,7 +18,7 @@ Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@haacked | 35 | tentative | yes
+@davidchang | 25 | tentative | no
 
 ## August 10, 2017
 SeattleJS Conference
