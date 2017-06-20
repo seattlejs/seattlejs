@@ -18,7 +18,8 @@ Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@davidchang | 25 | tentative | no
+@davidchang | 25 | confirmed | yes
+
 
 ## August 10, 2017
 SeattleJS Conference
