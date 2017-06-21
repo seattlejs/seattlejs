@@ -49,9 +49,9 @@ Speaker | Length | Status | CoC Verified
 ## June 8, 2017
 [https://www.meetup.com/seattlejs/events/237924502/](https://www.meetup.com/seattlejs/events/237924502/)
 
-Host: Dell EMC Isilon
+Host: Qualtrics
 
-Sponsor: Dell EMC Isilon
+Sponsor: Qualtrics
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
