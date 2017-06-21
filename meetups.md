@@ -1,10 +1,18 @@
 
+## November 9, 2017
+[]()
+
+Host: Avvo
+
+Sponsor: Avvo
+
+
 ## October 12, 2017
 []()
 
-Host:
+Host: Dell EMC Isilon
 
-Sponsor:
+Sponsor: Dell EMC Isilon
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -15,7 +23,7 @@ Speaker | Length | Status | CoC Verified
 
 Host: 
 
-Sponsor: 
+Sponsor: Carbon 5
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -29,9 +37,9 @@ SeattleJS Conference
 ## July 13, 2017
 [https://www.meetup.com/seattlejs/events/dczsvkywkbrb/](https://www.meetup.com/seattlejs/events/dczsvkywkbrb/)
 
-Host: 
+Host: Redfin
 
-Sponsor: 
+Sponsor: Redfin
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
