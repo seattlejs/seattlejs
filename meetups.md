@@ -21,7 +21,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @davidchang | 25 | confirmed | yes
 @shanebdavis | 10 | tentative | no
-
+@fritzy | 10 | confirmed | no
 
 ## August 10, 2017
 SeattleJS Conference
@@ -37,7 +37,6 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @thomaswilburn | 25 | confirmed | yes
 @JoshuaKGoldberg | 10 | confirmed | yes
-@fritzy | 10 | tentative | no
 
 ## June 8, 2017
 [https://www.meetup.com/seattlejs/events/237924502/](https://www.meetup.com/seattlejs/events/237924502/)
