@@ -45,7 +45,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @thomaswilburn | 25 | confirmed | yes
 @JoshuaKGoldberg | 10 | confirmed | yes
-@tzmanics | 10 | tentative | no
+@tzmanics | 10 | confirmed | yes
 
 ## June 8, 2017
 [https://www.meetup.com/seattlejs/events/237924502/](https://www.meetup.com/seattlejs/events/237924502/)
