@@ -35,7 +35,7 @@ Speaker | Length | Status | CoC Verified
 SeattleJS Conference
 
 ## July 13, 2017
-[https://www.meetup.com/seattlejs/events/dczsvkywkbrb/](https://www.meetup.com/seattlejs/events/dczsvkywkbrb/)
+[https://www.meetup.com/seattlejs/events/239283154/](https://www.meetup.com/seattlejs/events/239283154/)
 
 Host: Redfin
 
