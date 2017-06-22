@@ -28,7 +28,7 @@ Sponsor: Carbon 5
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @davidchang | 25 | confirmed | yes
-@shanebdavis | 10 | tentative | no
+@shanebdavis | 10 | confirmed | yes
 @fritzy | 10 | confirmed | no
 
 ## August 10, 2017
