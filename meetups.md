@@ -16,7 +16,7 @@ Sponsor: Dell EMC Isilon
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-
+@tmero | 25 | confirmed | yes
 
 ## September 14, 2017
 []()
@@ -45,7 +45,6 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @thomaswilburn | 25 | confirmed | yes
 @JoshuaKGoldberg | 10 | confirmed | yes
-@tmero | 10 | tentative | yes
 
 ## June 8, 2017
 [https://www.meetup.com/seattlejs/events/237924502/](https://www.meetup.com/seattlejs/events/237924502/)
