@@ -17,6 +17,7 @@ Sponsor: Dell EMC Isilon
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @tmero | 25 | confirmed | yes
+@cmgriffing | 15 | tentative | yes
 
 ## September 14, 2017
 []()
