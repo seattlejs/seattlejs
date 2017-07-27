@@ -8,7 +8,7 @@ Sponsor: Avvo
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@TimMikeladze | 25 | tentative | no
+@TimMikeladze | 25 | confirmed | yes
 
 
 ## October 12, 2017
