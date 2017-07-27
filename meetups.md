@@ -6,6 +6,10 @@ Host: Avvo
 
 Sponsor: Avvo
 
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@TimMikeladze | 25 | tentative | no
+
 
 ## October 12, 2017
 []()
