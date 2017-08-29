@@ -1,3 +1,13 @@
+## December 14, 2017
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@krotscheck | 25 | tentative | yes
 
 ## November 9, 2017
 []()
