@@ -1,3 +1,24 @@
+## February 8, 2018
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@stuartpb | 25 | confirmed | no
+
+## January 11, 2018
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
 ## December 14, 2017
 []()
 
