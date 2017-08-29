@@ -7,7 +7,7 @@ Sponsor: --
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@stuartpb | 25 | confirmed | no
+@stuartpb | 25 | confirmed | yes
 
 ## January 11, 2018
 []()
