@@ -57,7 +57,7 @@ Speaker | Length | Status | CoC Verified
 ## September 14, 2017
 []()
 
-Host: 
+Host: Sumply Measured
 
 Sponsor: Carbon 5
 
