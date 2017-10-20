@@ -28,7 +28,7 @@ Sponsor: --
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@krotscheck | 25 | tentative | yes
+@krotscheck | 25 | confirmed | yes
 
 ## November 9, 2017
 []()
