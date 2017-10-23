@@ -1,8 +1,8 @@
 Your SeattleJS organizers are (in no particular order)...
 
-## Elise Worthy
+## Emma Brillhart
 ### Chief Cat Wrangler
-[@eliseworthy](http://twitter.com/eliseworthy)
+[@ebrillhart](http://twitter.com/emmabrillhart)
 
 ## Wale Ogundipe
 ### Robot Whisperer Whisperer
@@ -11,7 +11,3 @@ Your SeattleJS organizers are (in no particular order)...
 ## Emma Broback
 ### Queen of Sass
 [@emmabroback](http://twitter.com/emmabroback)
-
-## Jeremy Foster
-### Bearded Wonder
-[@codefoster](http://twitter.com/codefoster)
