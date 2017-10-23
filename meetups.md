@@ -18,17 +18,19 @@ Sponsor: --
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@jefflembeck | 35 | confirmed | yes
 
 ## December 14, 2017
 []()
 
-Host: --
+Host: General Assembly
 
 Sponsor: --
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @krotscheck | 25 | confirmed | yes
+@thomaswilburn | 25 | confirmed | yes
 
 ## November 9, 2017
 []()
@@ -57,7 +59,7 @@ Speaker | Length | Status | CoC Verified
 ## September 14, 2017
 []()
 
-Host: Sumply Measured
+Host: Simply Measured
 
 Sponsor: Carbon 5
 
