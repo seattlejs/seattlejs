@@ -17,6 +17,7 @@ Sponsor: --
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@alexlande | 25 | confirmed | yes
 
 ## February 8, 2018
 []()
