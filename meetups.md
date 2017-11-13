@@ -29,6 +29,8 @@ Sponsor: --
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @stuartpb | 25 | confirmed | yes
+@jasnell | 25 | confirmed | yes
+@krotscheck | 15 | confirmed | yes
 
 ## January 11, 2018
 []()
@@ -40,6 +42,7 @@ Sponsor: --
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @jefflembeck | 35 | confirmed | yes
+@lbingle | 15 | confirmed | yes
 
 ## December 14, 2017
 []()
