@@ -47,7 +47,7 @@ Speaker | Length | Status | CoC Verified
 ## December 14, 2017
 []()
 
-Host: General Assembly
+Host: --
 
 Sponsor: --
 
