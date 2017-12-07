@@ -1,7 +1,7 @@
 ## April 12, 2018
 []()
 
-Host: General Assembly
+Host: General Assembly (contact: kellie.cockrell@generalassemb.ly)
 
 Sponsor: --
 
@@ -22,7 +22,7 @@ Speaker | Length | Status | CoC Verified
 ## February 8, 2018
 []()
 
-Host: Redfin
+Host: Redfin (contact: megan.riggs@redfin.com)
 
 Sponsor: Redfin
 
@@ -47,9 +47,9 @@ Speaker | Length | Status | CoC Verified
 ## December 14, 2017
 []()
 
-Host: Galvanize
+Host: Galvanize (contact: jennifer.deverna@galvanize.com)
 
-Sponsor: Formidable
+Sponsor: Formidable (contact: emma.broback@formidable.com)
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -71,7 +71,7 @@ Speaker | Length | Status | CoC Verified
 ## October 12, 2017
 []()
 
-Host: Dell EMC Isilon
+Host: Dell EMC Isilon (contact: Rebecca, r.tolmach@dell.com)
 
 Sponsor: Dell EMC Isilon
 
@@ -83,9 +83,9 @@ Speaker | Length | Status | CoC Verified
 ## September 14, 2017
 []()
 
-Host: Simply Measured
+Host: Simply Measured (contact: bookis@simplymeasured.com)
 
-Sponsor: Carbon 5
+Sponsor: Carbon 5 (contact: ryan@carbonfive.com )
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -112,7 +112,7 @@ Speaker | Length | Status | CoC Verified
 ## June 8, 2017   
 [https://www.meetup.com/seattlejs/events/237924502/](https://www.meetup.com/seattlejs/events/237924502/)    
     
-Host: Qualtrics   
+Host: Qualtrics (contact: jhamann@qualtrics.com)
     
 Sponsor: Qualtrics    
     
