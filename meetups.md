@@ -1,7 +1,7 @@
 ## April 12, 2018
 []()
 
-Host: --
+Host: General Assembly
 
 Sponsor: --
 
