@@ -59,7 +59,7 @@ Speaker | Length | Status | CoC Verified
 ## November 9, 2017
 []()
 
-Host: Avvo
+Host: Avvo (contact: Kalin, kwoo@avvo.com)
 
 Sponsor: Avvo
 
