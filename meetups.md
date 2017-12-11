@@ -1,3 +1,43 @@
+## August 9, 2018
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
+## July 12, 2018
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
+## June 14, 2018
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
+## May 10, 2018
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
 ## April 12, 2018
 []()
 
