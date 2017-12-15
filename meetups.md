@@ -81,7 +81,7 @@ Sponsor: --
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@jefflembeck | 35 | confirmed | yes
+@chrisdickinson | 30 | confirmed |
 @lbingle | 15 | confirmed | yes
 
 ## December 14, 2017
