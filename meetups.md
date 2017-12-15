@@ -75,9 +75,9 @@ Speaker | Length | Status | CoC Verified
 ## January 11, 2018
 []()
 
-Host: --
+Host: Zillow (contact: lindao@zillowgroup.com)
 
-Sponsor: --
+Sponsor: Zillow
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
