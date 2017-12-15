@@ -43,7 +43,7 @@ Speaker | Length | Status | CoC Verified
 
 Host: General Assembly (contact: kellie.cockrell@generalassemb.ly)
 
-Sponsor: --
+Sponsor: CBRE and Fresh Consulting (contacts: jBrittney.Johnson@cbre.com & elisha@freshconsulting.com)
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
