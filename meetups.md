@@ -82,6 +82,7 @@ Sponsor: Zillow
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @chrisdickinson | 30 | confirmed |
+@rachelnabors | 45 | confirmed |
 @lbingle | 15 | confirmed | yes
 
 ## December 14, 2017
