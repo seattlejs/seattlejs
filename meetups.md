@@ -51,9 +51,9 @@ Speaker | Length | Status | CoC Verified
 ## March 8, 2018
 []()
 
-Host: --
+Host: Qualtrics (contact: Jenny, jhamann@qualtrics.com)
 
-Sponsor: --
+Sponsor: Qualtrics
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -75,7 +75,7 @@ Speaker | Length | Status | CoC Verified
 ## January 11, 2018
 []()
 
-Host: Zillow (contact: lindao@zillowgroup.com)
+Host: Zillow (contact: Linda, lindao@zillowgroup.com)
 
 Sponsor: Zillow
 
