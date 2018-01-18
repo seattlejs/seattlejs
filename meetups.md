@@ -62,7 +62,7 @@ Speaker | Length | Status | CoC Verified
 ## February 8, 2018
 []()
 
-Host: Redfin (contact: megan.riggs@redfin.com)
+Host: Redfin (contact: galen.voorhees@redfin.com)
 
 Sponsor: Redfin
 
