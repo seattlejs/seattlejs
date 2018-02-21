@@ -21,9 +21,9 @@ Speaker | Length | Status | CoC Verified
 ## June 14, 2018
 []()
 
-Host: --
+Host: RealSelf (contact: finnian.durkan@realself.com)
 
-Sponsor: --
+Sponsor: RealSelf
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -31,7 +31,7 @@ Speaker | Length | Status | CoC Verified
 ## May 10, 2018
 []()
 
-Host: --
+Host: The Seattle Times
 
 Sponsor: --
 
@@ -133,7 +133,7 @@ Speaker | Length | Status | CoC Verified
 @shanebdavis | 10 | confirmed | yes
 @fritzy | 10 | confirmed | no
 
--## August 10, 2017   
+## August 10, 2017   
 SeattleJS Conference    
     
 ## July 13, 2017    
