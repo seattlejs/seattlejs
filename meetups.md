@@ -11,9 +11,9 @@ Speaker | Length | Status | CoC Verified
 ## July 12, 2018
 []()
 
-Host: --
+Host: Textio (contact: max@textio.com)
 
-Sponsor: --
+Sponsor: Textio
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
