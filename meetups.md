@@ -1,3 +1,14 @@
+## September 13, 2018
+[]()
+
+Host: Galvanize
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
+
 ## August 9, 2018
 []()
 
@@ -5,15 +16,14 @@ Host: --
 
 Sponsor: --
 
-Speaker | Length | Status | CoC Verified
---- | --- | --- | ---
+Summer social, location and details TBD, in lieu of normal meet up.
 
 ## July 12, 2018
 []()
 
-Host: Textio (contact: max@textio.com)
+Host: RealSelf (contact: finnian.durkan@realself.com) 
 
-Sponsor: Textio
+Sponsor: RealSelf
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
@@ -21,9 +31,9 @@ Speaker | Length | Status | CoC Verified
 ## June 14, 2018
 []()
 
-Host: RealSelf (contact: finnian.durkan@realself.com)
+Host: Textio (contact: max@textio.com)
 
-Sponsor: RealSelf
+Sponsor: Textio
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
