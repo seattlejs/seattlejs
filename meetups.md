@@ -1,3 +1,15 @@
+## October 11, 2018
+[]()
+
+Host: --
+
+Sponsor: --
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@jmburges | 25 | confirmed | yes
+@JoshuaKGoldberg | 25 | confirmed | yes
+
 ## September 13, 2018
 []()
 
@@ -7,6 +19,8 @@ Sponsor: --
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@trivikr | 15 | confirmed | yes
+@mathisonian | 25 | confirmed | yes
 
 
 ## August 9, 2018
@@ -27,6 +41,9 @@ Sponsor: RealSelf
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@jefflembeck | 25 | confirmed | yes
+@andryanmiller | 15 | confirmed | yes
+@ai | 25 | confirmed | yes
 
 ## June 14, 2018
 []()
