@@ -26,11 +26,11 @@ Speaker | Length | Status | CoC Verified
 ## August 9, 2018
 []()
 
-Host: --
+Host: Location TBD
 
-Sponsor: --
+Sponsor: Formidable
 
-Summer social, location and details TBD, in lieu of normal meet up.
+SeattleJS Summer Social! Food provided.
 
 ## July 12, 2018
 []()
