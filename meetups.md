@@ -1,14 +1,26 @@
+## November 8, 2018
+[]()
+
+Host: RealSelf (contact: patrick.minton@realself.com)
+
+Sponsor: RealSelf
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+
+
 ## October 11, 2018
 []()
 
-Host: --
+Host: RealSelf (contact: patrick.minton@realself.com)
 
-Sponsor: --
+Sponsor: RealSelf
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @jmburges | 25 | confirmed | yes
 @JoshuaKGoldberg | 25 | confirmed | yes
+@Frijol | 25 | confirmed | yes
 
 ## September 13, 2018
 []()
@@ -26,7 +38,7 @@ Speaker | Length | Status | CoC Verified
 ## August 9, 2018
 []()
 
-Host: Location TBD
+Host: The Ballroom
 
 Sponsor: Formidable
 
