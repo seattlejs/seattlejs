@@ -7,6 +7,9 @@ Sponsor: RealSelf
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@ignu | 25 | - | -
+@redgeoff | 25 | - | yes
+@charliewilco | 25 | - | yes
 
 
 ## October 11, 2018
@@ -25,9 +28,9 @@ Speaker | Length | Status | CoC Verified
 ## September 13, 2018
 []()
 
-Host: Galvanize
+Host: Galvanize (contact: corinne.eischen@galvanize.com)
 
-Sponsor: --
+Sponsor: WeConnect Recovery (contact: jay@weconnectrecovery.com)
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
