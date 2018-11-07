@@ -7,9 +7,9 @@ Sponsor: RealSelf
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@ignu | 25 | - | -
-@redgeoff | 25 | - | yes
-@charliewilco | 25 | - | yes
+@ignu | 25 | confirmed | yes
+@redgeoff | 25 | confirmed | yes
+@charliewilco | 25 | confirmed | yes
 
 
 ## October 11, 2018
