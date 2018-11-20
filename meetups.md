@@ -1,3 +1,17 @@
+## December 13, 2018
+[]()
+
+Host: Axon (contact: [Axon meetup page]())
+
+Sponsor: Axon
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@--- | 25 | not confirmed | no
+@--- | 25 | not confirmed | no
+@--- | 25 | not confirmed | no
+
+
 ## November 8, 2018
 []()
 
