@@ -7,9 +7,9 @@ Sponsor: Axon
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@--- | 25 | not confirmed | no
-@--- | 25 | not confirmed | no
-@--- | 25 | not confirmed | no
+@grant | 25 | confirmed | yes
+@Brandoncyu | 10 | confirmed | yes
+@trivikr | 25 | confirmed | yes
 
 
 ## November 8, 2018
