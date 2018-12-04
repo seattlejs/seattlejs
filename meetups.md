@@ -1,7 +1,7 @@
 ## December 13, 2018
 []()
 
-Host: Axon (contact: [Axon meetup page]())
+Host: Axon (contact: [Axon meetup page](https://www.meetup.com/AxonTechTalks/events/256814753/))
 
 Sponsor: Axon
 
