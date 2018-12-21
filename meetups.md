@@ -1,3 +1,17 @@
+## January 10, 2019
+[]()
+
+Host: BCGDV (contact: robert.greene@bcgdv.com)
+
+Sponsor: 
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@davidmjiang | 25 | confirmed | yes
+@kingnebby | 25 | confirmed | yes
+
+
+
 ## December 13, 2018
 []()
 
