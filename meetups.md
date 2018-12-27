@@ -9,6 +9,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @davidmjiang | 25 | confirmed | yes
 @kingnebby | 25 | confirmed | yes
+@fredricklou523| 25 | confirmed | yes
 
 
 
