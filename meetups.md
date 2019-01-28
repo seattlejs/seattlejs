@@ -1,3 +1,18 @@
+## February 21, 2019
+[https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/](https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/)
+
+Host: TBD
+
+Sponsor: TBD
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+TBD | 25 | not confirmed | no
+TBD | 25 | not confirmed | no
+TBD | 25 | not confirmed | no
+
+
+
 ## January 10, 2019
 []()
 
