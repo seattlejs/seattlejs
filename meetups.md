@@ -8,7 +8,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @trivikr | 25 | confirmed | yes
 @ahoak | 25 | confirmed | yes
-@dmahugh/@@kbrandl | 10 | confirmed | yes/pending
+@dmahugh/@kbrandl | 10 | confirmed | yes/pending
 
 
 ## January 10, 2019
