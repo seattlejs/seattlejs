@@ -6,7 +6,7 @@ Sponsor: TBD
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@trivikr | 25 | confirmed | yes
+@trivikr | 25 | Cancelled | n/a
 @ahoak | 25 | confirmed | yes
 @dmahugh/@kbrandl | 10 | confirmed | yes
 
