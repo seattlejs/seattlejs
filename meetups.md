@@ -14,8 +14,8 @@ n/a | n/a | n/a | n/a
 ## February 21, 2019
 [https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/](https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/)
 
-Host: TBD
-Sponsor: TBD
+Host: Code Fellows
+Sponsor: Formidable & Code Fellows
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
