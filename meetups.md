@@ -1,3 +1,16 @@
+## March 14, 2019
+
+[http://meetu.ps/e/FgywY/vrGhn/f](http://meetu.ps/e/FgywY/vrGhn/f)
+
+Host: TBD  
+Sponsor: TBD
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@anvaka | 25 | confirmed | yes
+@lidderupk | 25 | confirmed | yes
+n/a | n/a | n/a | n/a
+
 ## February 21, 2019
 [https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/](https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/)
 
