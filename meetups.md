@@ -2,8 +2,8 @@
 
 [http://meetu.ps/e/FgywY/vrGhn/f](http://meetu.ps/e/FgywY/vrGhn/f)
 
-Host: TBD  
-Sponsor: TBD
+Host: indeed
+Sponsor: indeed
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
