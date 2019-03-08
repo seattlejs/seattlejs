@@ -9,7 +9,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @anvaka | 25 | confirmed | yes
 @lidderupk | 25 | confirmed | yes
-n/a | n/a | n/a | n/a
+@bencripps  | 25 | confirmed | yes
 
 ## February 21, 2019
 [https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/](https://www.meetup.com/seattlejs/events/dczsvkyzdbsb/)
