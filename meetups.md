@@ -10,7 +10,7 @@ Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@cmgriffing | 15 | confirmed | pending
+@cmgriffing | 15 | confirmed | yes
 @hingham | 25 | confirmed | yes
 n/a| n/a | n/a | n/a
 
