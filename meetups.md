@@ -4,7 +4,15 @@
 
 ## May 9, 2019
 
-## April 11, 2019
+## April 11, 2019  
+Host:
+Sponsor: 
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@cmgriffing | 15 | confirmed | pending
+@hingham | 25 | confirmed | yes
+n/a| n/a | n/a | n/a
 
 ## March 14, 2019
 
