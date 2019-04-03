@@ -2,7 +2,15 @@
 ## June 13, 2019
 - Host & Sponsor: Axon
 
-## May 9, 2019
+## May 9, 2019  
+Host:
+Sponsor: 
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@puneetpr  | 25 | confirmed | yes
+n/a | n/a | n/a | n/a
+n/a | n/a | n/a | n/a
 
 ## April 11, 2019  
 Host:
@@ -12,7 +20,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @cmgriffing | 15 | confirmed | yes
 @hingham | 25 | confirmed | yes
-@beccalee123 | 20 | confirmed | pending
+@beccalee123 | 20 | confirmed | yes
 
 ## March 14, 2019
 
