@@ -12,7 +12,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @cmgriffing | 15 | confirmed | yes
 @hingham | 25 | confirmed | yes
-n/a| n/a | n/a | n/a
+@beccalee123 | 20 | confirmed | pending
 
 ## March 14, 2019
 
