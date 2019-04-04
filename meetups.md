@@ -13,8 +13,7 @@ n/a | n/a | n/a | n/a
 n/a | n/a | n/a | n/a
 
 ## April 11, 2019  
-Host:
-Sponsor: 
+Host & Sponsor: Amazon QuickSight. Contact: sureshde@amazon.com
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
