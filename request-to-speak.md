@@ -13,7 +13,7 @@ This is a great opportunity to share what you know with the community, meet new 
 - If you know you want to do a quicker presentation (~10 min) then add a _Lightning!_ tag to the issue.
 - If the proposal sounds like something that will work for our members, we'll group the talk with similar proposals and schedule it.
 
-*Why GH issues? It makes it easy for us to schedule things. If you'd rather email--no biggie! Just send your proposal via email (talks@seattlejs.com).*
+*Why GH issues? It makes it easy for us to schedule things. If you'd rather not use issues - no biggie! Just head over to the #call-for-speakers channel on the SeattleJS Slack.*
 
 
 ## What makes a good talk?
