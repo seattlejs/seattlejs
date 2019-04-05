@@ -22,22 +22,6 @@ Next, click the "New Issue" button:
 
 ![new](https://raw.github.com/seattlejs/seattlejs/master/images/new_issue.png)
 
-Lastly, fill-in the form. Please use the template below
+Lastly, select the Request to host templand, fill-in the form, and submit. We will be in contact soon!
 
-![submit](https://raw.github.com/seattlejs/seattlejs/master/images/submit_host.png)
-
-
-## Request to Sponsor Template
-
-```
-* Name of company / venue
-* Address
-* Neighborhood
-
-A short explanation of why you'd like to host. Are you looking to hire? Support the community? 1-2 paragraphs is fine.
-
-## Contact Info
-
-How can we reach you? Email or Twitter is fine.
-
-```
+![submit](images/host-template.png)
