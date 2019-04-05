@@ -16,20 +16,7 @@ Next, click the "New Issue" button:
 
 ![new](https://raw.github.com/seattlejs/seattlejs/master/images/new_issue.png)
 
-Lastly, fill-in the form. Please use the template below
+Lastly, select the Request to sponsor template, fill in the form and submit. We will be in contact shortly!
 
-![submit](https://raw.github.com/seattlejs/seattlejs/master/images/submit_sponsor.png)
+![template select](images/sponsor-template.png)
 
-
-## Request to Sponsor Template
-
-```
-# Company name
-
-A short explanation of why you'd like to sponsor. Are you looking to hire? Want feedback from devs? 1-2 paragraphs is fine.
-
-## Contact Info
-
-How can we reach you? Email or Twitter is fine.
-
-```
