@@ -14,13 +14,9 @@ You can check out our Meetup page and see which of our upcoming meetups does not
 
 ## Submitting a Hosting Request
 
-We use Github issues to manage requests to host. Just click on the issues icon on the sidebar to get started:
+We use Github issues to manage requests to host. Just click the "New Issue" button to get started:
 
-![issues](https://raw.github.com/seattlejs/seattlejs/master/images/issues.png)
-
-Next, click the "New Issue" button:
-
-![new](https://raw.github.com/seattlejs/seattlejs/master/images/new_issue.png)
+[![new issue button](https://raw.github.com/seattlejs/seattlejs/master/images/new_issue.png)](https://github.com/seattlejs/seattlejs/issues/new)
 
 Lastly, select the Request to host templand, fill-in the form, and submit. We will be in contact soon!
 
