@@ -8,8 +8,8 @@ Sponsor:
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
-@puneetpr  | 25 | confirmed | yes
-n/a | n/a | n/a | n/a
+@puneetpr  | 20 | confirmed | yes
+@kiwiupover | 20 | confirmed | yes
 n/a | n/a | n/a | n/a
 
 ## April 11, 2019  
