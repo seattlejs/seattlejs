@@ -77,16 +77,7 @@ Here are a few to get you started:
 
 ## Talk Proposal Template
 
-```
-# Title of talk
+We have a couple premade proposal templates that you can use for your conveineince. Simply create a new issue and select a lightning or feature talk from the options and fill out the template!
 
-A short description of the talk. The goal should be to explain to people WHY this topic is interesting and HOW it will help them be better developers or build better applications. 1-2 paragraphs is fine.
 
-Include a short bio--anything that gives us an idea of why you're qualified to speak on this subject. Feel free to include any relevant links.
-
-* Name
-* [Twitter]()
-* [Github]()
-* [Website]()
-
-```
+![image of talk template options](images/talk-templates.png)
