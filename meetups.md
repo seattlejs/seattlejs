@@ -10,7 +10,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @puneetpr  | 20 | confirmed | yes
 @kiwiupover | 20 | confirmed | yes
-n/a | n/a | n/a | n/a
+@dbabbs  | 10 | confirmed | yes
 
 ## April 11, 2019  
 Host & Sponsor: Amazon QuickSight. Contact: sureshde@amazon.com
