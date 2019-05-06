@@ -1,6 +1,13 @@
 
 ## June 13, 2019
 - Host & Sponsor: Axon
+__Note: Checkin will need to be done in lower lobby. Attendees will be escorted to the event space after check in__  
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@goldhand  | 20 | confirmed | yes
+@grant  | 20 | confirmed | yes
+n/a  | 10 | n/a | n/a
 
 ## May 9, 2019  
 Host:
