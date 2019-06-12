@@ -1,7 +1,7 @@
 
 ## June 13, 2019
-Host & Sponsor: Axon  
-__Note: Checkin will need to be done in lower lobby. Attendees will be escorted to the event space after check in__  
+Host: Galvanize
+Sponsor: Formidable 
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
