@@ -1,3 +1,12 @@
+## September 12th, 2019
+Host: TDB
+Sponsor: TBD
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@serv   | 20 | confirmed | yes
+@jasonnutter | 20 | confirmed | yes
+@evantahler  | 10 | confirmed | yes
 
 ## June 13, 2019
 Host: Galvanize
