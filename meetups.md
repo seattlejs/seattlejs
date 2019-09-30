@@ -1,3 +1,13 @@
+## October 10th, 2019
+Host/Sponsor: Ookla
+
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@trivikr   | 20 | confirmed | yes  
+@AllanFly120/@ajredniwja | 20 | Pending approval from company | yes  
+TBD  | 10 | n/a | n/a
+
 ## September 12th, 2019
 Host: TDB
 Sponsor: TBD
