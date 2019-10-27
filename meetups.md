@@ -6,7 +6,7 @@ Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
 @stmcallister   | 20 | confirmed | yes  
 @drote | 20 | confirmed | yes  
-@JoseHerminioCollas   | 10 | confirmed | confirmed
+@JoseHerminioCollas   | 10 | confirmed | yes
 
 ## October 10th, 2019
 Host/Sponsor: Ookla
