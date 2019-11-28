@@ -1,3 +1,13 @@
+## December 12th, 2019
+Host/Sponsor: Indeed
+
+
+Speaker | Length | Status | CoC Verified
+--- | --- | --- | ---
+@colinlgray   | 20 | confirmed | yes  
+@sangeethaKP | 10 | confirmed | yes  
+@koryteg   | 20 | confirmed | yes
+
 ## November 14th, 2019
 Host/Sponsor: Dell
 
