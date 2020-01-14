@@ -40,7 +40,7 @@ We're always interested in:
 
 **Specific topics**
 
-These are some interesting topics that might appeal to our community. If you don't see a topic that's interesting to you, let us know via the SeattleJS Slack group (http://bit.ly/SeattleJSslack)!
+These are some interesting topics that might appeal to our community. If you don't see a topic that's interesting to you, let us know via the SeattleJS Slack group (http://bit.ly/SeattleJSSlack)!
 
 We're open to proposals on *any* topic related to JavaScript.
 
