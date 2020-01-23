@@ -19,4 +19,4 @@ Include a short bio--anything that gives us an idea of why you're qualified to s
 * [Website]()
 
 - [ ] I've read and agree to the [SeattleJS Code of Conduct](https://github.com/seattlejs/seattlejs/blob/master/code-of-conduct.md)  
-- [ ] I consent to my talk being recorded and posted on the SeattleJS Youtube channel
+- [ ] I consent to my talk being recorded and posted on the [SeattleJS Youtube channel](https://www.youtube.com/channel/UCcSA-OGuAesfDqFNdEYGTaQ)
